@@ -49,7 +49,7 @@ class Phonemizer:
 
 
 class BioembModel:
-    HUGGING_FACE_TOKEN = "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"
+    HUGGING_FACE_TOKEN = ""
     SR = 16000
 
     def __init__(self, device):
